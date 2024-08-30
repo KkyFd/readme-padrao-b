@@ -14,23 +14,6 @@
     <li><a href="#mapa">Mapa do Projeto</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#tecnologias">Tecnologias</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
-    <li><a href="">Clique aqui</a></li>
 </ul>
 
 ## :rocket: Status do Projeto
